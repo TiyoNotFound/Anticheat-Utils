@@ -53,7 +53,7 @@
 
 ## Usage
 
-- Use the provided functions such as `CheckAimbot`, `CheckSpeedhack`, etc., to detect potential cheaters.
+- Use the provided functions such as `TAnticheat_CheckAimbot`, `TAnticheat_CheckSpeedhack`, etc., to detect potential cheaters.
 
 - Customize the constants (`MAX_AIM_DISTANCE`, `MAX_PLAYER_SPEED`, etc.) to set appropriate thresholds for cheat detection.
 
