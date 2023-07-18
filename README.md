@@ -41,6 +41,43 @@
 
 ---
 
+---
+**Cheat Configuration Features:**
+
+1. **Customizable Cheat Detection:**
+   - The anti-cheat system allows server administrators to customize the detection of specific cheats.
+   - Server owners can choose to enable or disable individual cheat detection types based on their server's needs.
+
+2. **Fine-Tuning Cheat Detection:**
+   - With cheat configuration, server administrators can fine-tune the sensitivity of cheat detection mechanisms.
+   - The system can be adjusted to be more or less strict, depending on the server's community and gameplay requirements.
+
+3. **Flexible Anti-Cheat Management:**
+   - Cheat configuration provides a flexible way to manage the anti-cheat system's behavior on the server.
+   - Administrators have the power to focus on specific types of cheats that are prevalent in their community.
+
+4. **Real-Time Control:**
+   - Cheat configuration allows for real-time changes to the anti-cheat system.
+   - Administrators can enable or disable cheat detection types on the fly without the need for server restarts.
+
+5. **Adaptability to Server Environment:**
+   - Server owners can adapt the anti-cheat system to suit their server's gameplay style and player base.
+   - Different servers may have varying cheat risks, and the configuration allows customization accordingly.
+
+6. **Reduced False Positives:**
+   - By enabling or disabling specific cheat detections, server administrators can reduce false positives.
+   - Reducing false positives helps prevent legitimate players from being flagged incorrectly.
+
+7. **Proactive Anti-Cheat Measures:**
+   - Cheat configuration empowers server administrators to take proactive measures against cheaters.
+   - The ability to manage cheat detection types enhances the server's anti-cheat efforts.
+
+8. **Enhanced Fair Play:**
+   - Customizable cheat detection contributes to a fair and balanced gameplay experience for all players.
+   - By preventing cheaters from gaining an unfair advantage, the server fosters an enjoyable environment for legitimate players.
+
+Note: Cheat configuration offers server administrators significant control over the anti-cheat system, enabling them to tailor it according to their server's specific needs. A well-tuned anti-cheat system helps maintain a healthy and enjoyable gaming environment, promoting fair play and supporting the server's integrity.
+---
 ## Installation
 
 1. Copy the "anticheat.pwn" file to your SA-MP server's "pawno/include" directory.
