@@ -44,6 +44,19 @@
 ---
 **Cheat Configuration Features:**
 
+```pawn
+TAncheat_Config(type, bool:statement);
+```
+** Configuration Type**
+```pawn
+AIMBOT_DETECTION
+SPEEDHACK_DETECTION
+RAPIDFIRE_DETECTION
+HEALTHHACK_DETECTION
+WALLHACK_DETECTION
+FLYHACK_DETECTION
+```
+
 1. **Customizable Cheat Detection:**
    - The anti-cheat system allows server administrators to customize the detection of specific cheats.
    - Server owners can choose to enable or disable individual cheat detection types based on their server's needs.
