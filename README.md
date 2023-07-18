@@ -47,7 +47,7 @@
 ```pawn
 TAncheat_Config(type, bool:statement);
 ```
-** Configuration Type**
+**Configuration Type**
 ```pawn
 AIMBOT_DETECTION
 SPEEDHACK_DETECTION
